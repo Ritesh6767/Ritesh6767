@@ -95,7 +95,7 @@ Third year, actively seeking data science internships across India and globally.
 - 🏅 Google Cloud Career Launchpad — Data Analytics
 - 🏅 IBM — Python for Data Science, AI & Development
 - 🏅 NPTEL — Elite Silver · Java Programming
-- 🏅 Infosys Springboard — Data Science Fundamentals
+
 
 ---
 
