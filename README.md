@@ -14,7 +14,7 @@
 
 # Hi, I'm Ritesh Bhingare
 
-**ML Engineer & Data Scientist** · B.Tech IT, Sanjivani College of Engineering · CGPA 8.45/10
+**ML Engineer & Data Scientist** · B.Tech IT, Savitribai Phule Pune University · CGPA 8.5/10
 
 I build end-to-end ML systems — from raw messy data to deployed APIs and live cloud applications.
 Five of my projects are deployed and publicly accessible right now.
