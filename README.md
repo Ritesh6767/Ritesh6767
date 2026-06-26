@@ -16,7 +16,7 @@
 
 **ML Engineer & Data Scientist** · B.Tech IT, Savitribai Phule Pune University · CGPA 8.5/10
 
-I build end-to-end ML systems — from raw messy data to deployed APIs and live cloud applications.
+I build end-to-end ML systems from raw messy data to deployed APIs and live cloud applications.
 Five of my projects are deployed and publicly accessible right now.
 My work spans NLP with LLMs, computer vision, fraud detection, and production MLOps.
 Third year, actively seeking data science internships across India and globally.
